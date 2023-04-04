@@ -16,4 +16,4 @@ The demo gameplay of this game in two modes is described below.
 
 - The below GIF shows gameplay in two player mode in which the you can have fun by playing with your friend.
 
-![twoplayermode]()
+![twoplayermode](
