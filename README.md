@@ -16,6 +16,6 @@ The demo gameplay of this game in two modes is described below.
 
 ![oneplayermode](/images/one_player_mode.gif)
 
-- The below GIF shows gameplay in <a href = "https://user-images.githubusercontent.com/86230018/229834787-2a354a65-bb7d-489c-ab06-f787d5633a4b.mp4" text-decoration = none font-weight = bold>two player mode</a> , in which the you can have fun by playing with your friend.
+- The below GIF shows gameplay in <a href = "https://user-images.githubusercontent.com/86230018/229837956-39e84170-ee61-42fd-92d8-a1c956c60365.mp4" text-decoration = none font-weight = bold>two player mode</a> , in which the you can have fun by playing with your friend.
 
 ![twoplayermode](/images/two_player_mode.gif)
